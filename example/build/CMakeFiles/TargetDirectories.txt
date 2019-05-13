@@ -1,3 +1,0 @@
-/home/dan/work/37net/example/build/CMakeFiles/rebuild_cache.dir
-/home/dan/work/37net/example/build/CMakeFiles/edit_cache.dir
-/home/dan/work/37net/example/build/CMakeFiles/echo.dir
