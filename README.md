@@ -1,5 +1,5 @@
 # 37net
-    A very fast networking library
+    A very fast networking library for testing or building some demo servers
     
 ## Content
     Inspired by the networking of redis
