@@ -15,7 +15,9 @@
     see example
    
 ## Benchmark 
-    tps: 1700000/s   
+    single-threaded mode 
+   
+    tps: 1700000 req/s   
 
 ## Todo
     support multithread
